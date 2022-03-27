@@ -1,0 +1,12 @@
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\bin\Debug\net5.0\LogicaTablas.deps.json
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\bin\Debug\net5.0\LogicaTablas.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\bin\Debug\net5.0\LogicaTablas.pdb
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.csproj.AssemblyReference.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.AssemblyInfoInputs.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.AssemblyInfo.cs
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.csproj.CoreCompileInputs.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\refint\LogicaTablas.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.pdb
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\ref\LogicaTablas.dll

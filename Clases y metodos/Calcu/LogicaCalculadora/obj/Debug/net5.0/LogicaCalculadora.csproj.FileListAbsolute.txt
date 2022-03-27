@@ -1,0 +1,12 @@
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\bin\Debug\net5.0\LogicaCalculadora.deps.json
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\bin\Debug\net5.0\LogicaCalculadora.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\bin\Debug\net5.0\LogicaCalculadora.pdb
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\obj\Debug\net5.0\LogicaCalculadora.csproj.AssemblyReference.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\obj\Debug\net5.0\LogicaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\obj\Debug\net5.0\LogicaCalculadora.AssemblyInfoInputs.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\obj\Debug\net5.0\LogicaCalculadora.AssemblyInfo.cs
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\obj\Debug\net5.0\LogicaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\obj\Debug\net5.0\LogicaCalculadora.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\obj\Debug\net5.0\refint\LogicaCalculadora.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\obj\Debug\net5.0\LogicaCalculadora.pdb
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Calcu\LogicaCalculadora\obj\Debug\net5.0\ref\LogicaCalculadora.dll

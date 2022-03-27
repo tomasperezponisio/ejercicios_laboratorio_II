@@ -1,0 +1,12 @@
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.csproj.AssemblyReference.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.AssemblyInfoInputs.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.AssemblyInfo.cs
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.csproj.CoreCompileInputs.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\bin\Debug\net5.0\LogicaConversor.deps.json
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\bin\Debug\net5.0\LogicaConversor.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\bin\Debug\net5.0\LogicaConversor.pdb
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\refint\LogicaConversor.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.pdb
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\ref\LogicaConversor.dll

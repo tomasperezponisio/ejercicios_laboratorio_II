@@ -1,0 +1,16 @@
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\bin\Debug\net5.0\Ejercicio08.exe
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\bin\Debug\net5.0\Ejercicio08.deps.json
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\bin\Debug\net5.0\Ejercicio08.runtimeconfig.json
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\bin\Debug\net5.0\Ejercicio08.runtimeconfig.dev.json
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\bin\Debug\net5.0\Ejercicio08.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\bin\Debug\net5.0\Ejercicio08.pdb
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\obj\Debug\net5.0\Ejercicio08.csproj.AssemblyReference.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\obj\Debug\net5.0\Ejercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\obj\Debug\net5.0\Ejercicio08.AssemblyInfoInputs.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\obj\Debug\net5.0\Ejercicio08.AssemblyInfo.cs
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\obj\Debug\net5.0\Ejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\obj\Debug\net5.0\Ejercicio08.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\obj\Debug\net5.0\refint\Ejercicio08.dll
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\obj\Debug\net5.0\Ejercicio08.pdb
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\obj\Debug\net5.0\Ejercicio08.genruntimeconfig.cache
+C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 01 - 21-03\Ejercicios\Ejercicio 08\obj\Debug\net5.0\ref\Ejercicio08.dll
