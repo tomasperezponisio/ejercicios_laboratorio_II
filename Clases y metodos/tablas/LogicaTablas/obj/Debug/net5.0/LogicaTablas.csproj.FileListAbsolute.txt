@@ -10,3 +10,15 @@ C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio
 C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\refint\LogicaTablas.dll
 C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.pdb
 C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\ref\LogicaTablas.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\bin\Debug\net5.0\LogicaTablas.deps.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\bin\Debug\net5.0\LogicaTablas.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\bin\Debug\net5.0\LogicaTablas.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.csproj.AssemblyReference.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.AssemblyInfoInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.AssemblyInfo.cs
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.csproj.CoreCompileInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\refint\LogicaTablas.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\LogicaTablas.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\tablas\LogicaTablas\obj\Debug\net5.0\ref\LogicaTablas.dll

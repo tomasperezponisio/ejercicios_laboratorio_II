@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Tomas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\tablas\\LogicaTablas\\LogicaTablas.csproj",
+      "projectUniqueName": "G:\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\tablas\\LogicaTablas\\LogicaTablas.csproj",
       "projectName": "LogicaTablas",
-      "projectPath": "C:\\Users\\User\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\tablas\\LogicaTablas\\LogicaTablas.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\tablas\\LogicaTablas\\obj\\",
+      "projectPath": "G:\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\tablas\\LogicaTablas\\LogicaTablas.csproj",
+      "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
+      "outputPath": "G:\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\tablas\\LogicaTablas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
