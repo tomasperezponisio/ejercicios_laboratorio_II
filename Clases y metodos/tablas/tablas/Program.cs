@@ -22,7 +22,7 @@ namespace tablas
             }
 
             Console.WriteLine(Tablas.Calcular(numero));
-
+            // prueba comment git
 
         }
     }
