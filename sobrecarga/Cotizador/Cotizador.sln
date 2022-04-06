@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vista", "Vista\Vista.csproj", "{C8168E10-3778-43FF-84B1-068624B0D897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "Billetes\Billetes.csproj", "{DA0973FE-015C-4EBA-B203-FF2B90C75DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8168E10-3778-43FF-84B1-068624B0D897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8168E10-3778-43FF-84B1-068624B0D897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8168E10-3778-43FF-84B1-068624B0D897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8168E10-3778-43FF-84B1-068624B0D897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0973FE-015C-4EBA-B203-FF2B90C75DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0973FE-015C-4EBA-B203-FF2B90C75DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0973FE-015C-4EBA-B203-FF2B90C75DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0973FE-015C-4EBA-B203-FF2B90C75DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E15C2B59-BF55-4661-9E75-39C5CC9AC088}
+	EndGlobalSection
+EndGlobal
