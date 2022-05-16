@@ -10,3 +10,15 @@ C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejerc
 C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\refint\LogicaConversor.dll
 C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.pdb
 C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\ref\LogicaConversor.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\bin\Debug\net5.0\LogicaConversor.deps.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\bin\Debug\net5.0\LogicaConversor.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\bin\Debug\net5.0\LogicaConversor.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.csproj.AssemblyReference.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.AssemblyInfoInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.AssemblyInfo.cs
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.csproj.CoreCompileInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\refint\LogicaConversor.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\LogicaConversor.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\net5.0\ref\LogicaConversor.dll

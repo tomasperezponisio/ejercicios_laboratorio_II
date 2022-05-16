@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Tomas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\Ejercicio I03 - Conversor binario\\Consola\\Consola.csproj",
+      "projectUniqueName": "G:\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\Ejercicio I03 - Conversor binario\\Consola\\Consola.csproj",
       "projectName": "Consola",
-      "projectPath": "C:\\Users\\User\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\Ejercicio I03 - Conversor binario\\Consola\\Consola.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\Ejercicio I03 - Conversor binario\\Consola\\obj\\",
+      "projectPath": "G:\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\Ejercicio I03 - Conversor binario\\Consola\\Consola.csproj",
+      "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
+      "outputPath": "G:\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\Ejercicio I03 - Conversor binario\\Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\User\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\Ejercicio I03 - Conversor binario\\Conversor\\LogicaConversor.csproj": {
-              "projectPath": "C:\\Users\\User\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\Ejercicio I03 - Conversor binario\\Conversor\\LogicaConversor.csproj"
+            "G:\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\Ejercicio I03 - Conversor binario\\Conversor\\LogicaConversor.csproj": {
+              "projectPath": "G:\\My Drive\\_UTN\\Laboratorio - Programacion II\\ejercicios_laboratorio_II\\Clases y metodos\\Ejercicio I03 - Conversor binario\\Conversor\\LogicaConversor.csproj"
             }
           }
         }

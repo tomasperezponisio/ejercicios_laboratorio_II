@@ -17,3 +17,22 @@ C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejerc
 C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.pdb
 C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
 C:\Users\User\My Drive\_UTN\Laboratorio - Programacion II\Clase 02 - 22-03\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\ref\Consola.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\bin\Debug\net5.0\Consola.exe
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\bin\Debug\net5.0\Consola.deps.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\bin\Debug\net5.0\Consola.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\bin\Debug\net5.0\Consola.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\bin\Debug\net5.0\LogicaConversor.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\bin\Debug\net5.0\LogicaConversor.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\refint\Consola.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\ejercicios_laboratorio_II\Clases y metodos\Ejercicio I03 - Conversor binario\Consola\obj\Debug\net5.0\ref\Consola.dll

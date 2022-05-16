@@ -20,7 +20,7 @@ namespace Aplicacion
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            Dictionary <string, int> contador = new Dictionary<string, int>();
+            Dictionary<string, int> contador = new Dictionary<string, int>();
 
             string texto = this.richTextBox1.Text;
             string[] palabras = texto.Split(" ");
@@ -34,13 +34,13 @@ namespace Aplicacion
                 {
                     contador[palabra]++;
                 }
-            }                    
+            }
 
-            int primerPalabraCantidad;
+            int primerPalabraCantidad = 0;
             string primerPalabra = "";
-            int segundaPalabraCantidad;
+            int segundaPalabraCantidad = 0;
             string segundaPalabra = "";
-            int tercerPalabraCantidad;
+            int tercerPalabraCantidad = 0;
             string tercerPalabra = "";
 
             // me fijo la palabra que mas aparece y guardo el numero y el string
@@ -57,25 +57,31 @@ namespace Aplicacion
             contador.Remove(primerPalabra);
 
             // ahora me fijo de vuelta la palabra que mas aparece (seria la segunda)
-            segundaPalabraCantidad = contador.Values.Max();
-
-            foreach (KeyValuePair<string, int> palabra in contador)
+            if (contador.Count != 0)
             {
-                if (palabra.Value == segundaPalabraCantidad)
+                segundaPalabraCantidad = contador.Values.Max();
+
+                foreach (KeyValuePair<string, int> palabra in contador)
                 {
-                    segundaPalabra = palabra.Key;
+                    if (palabra.Value == segundaPalabraCantidad)
+                    {
+                        segundaPalabra = palabra.Key;
+                    }
                 }
+                // borro la segunda palabra del dicccionario
+                contador.Remove(segundaPalabra);
             }
-            // borro la segunda palabra del dicccionario
-            contador.Remove(segundaPalabra);
-            // ahora me fijo de vuelta la palabra que mas aparece (seria la tercera)
-            tercerPalabraCantidad = contador.Values.Max();
-
-            foreach (KeyValuePair<string, int> palabra in contador)
+            if (contador.Count != 0)
             {
-                if (palabra.Value == tercerPalabraCantidad)
+                // ahora me fijo de vuelta la palabra que mas aparece (seria la tercera)
+                tercerPalabraCantidad = contador.Values.Max();
+
+                foreach (KeyValuePair<string, int> palabra in contador)
                 {
-                    tercerPalabra = palabra.Key;
+                    if (palabra.Value == tercerPalabraCantidad)
+                    {
+                        tercerPalabra = palabra.Key;
+                    }
                 }
             }
             MessageBox.Show($"TOP 3 de palabras.\n" +
